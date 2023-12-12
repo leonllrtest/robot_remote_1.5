@@ -1,0 +1,10 @@
+{
+   "liveServer.settings.https":   
+    {
+    "enable": true, //set it true to enable the feature.  
+    "cert": "J:\\2\\robot\\ble_remote_web_1\\localhost.pem", //full path of the certificate  
+    "key": "J:\\2\\robot\\ble_remote_web_1\\localhost-privateKey.key", //full path of the private key  
+    "passphrase": "1234"
+
+   } 
+}
